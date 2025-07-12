@@ -7,16 +7,23 @@ Overview
 The program offers the following functionalities:
 
 1 . Adding a New Place: Users can add new places to the map, storing their names in a file for future reference.
+
 2. Creating Roads: Allows the creation of connections (roads) between existing places within the map.
+
 3. Deleting Roads and Places: Users can remove connections between places and delete existing places from the map.
+
 4. Displaying Information: Options to display all places, show connections of a specific place, and find routes between places.
+
 5. Finding Shortest Route: Finds the shortest route between two selected places in the map.
 Instructions
+
 Getting Started
+
 To run the program:
 
 Compile the 'main.c' file.
 Execute the compiled file to start the map management system.
+
 Usage
 Follow the on-screen prompts and menu options to perform various actions within the program:
 
@@ -34,6 +41,7 @@ Enter the name of the new place: NewCity
 Place added successfully!
 
 Creating a Road
+
 2. Add a new road
 
 Enter the indices of the places to connect (separated by a space): 0 1
@@ -41,7 +49,7 @@ Enter the indices of the places to connect (separated by a space): 0 1
 Road added successfully!
 
 Finding Shortest Route
-9. Display Shortest Route
+3. Display Shortest Route
 
 Enter the indices of the places to find the shortest path (separated by a space): 0 2
 
