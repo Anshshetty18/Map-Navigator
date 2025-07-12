@@ -1,5 +1,6 @@
 # Map-Navigator
 Map Management System
+
 This project implements a map management system in C that allows users to manage places and routes between them within a map.
 
 Overview
